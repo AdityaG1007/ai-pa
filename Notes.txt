@@ -1,0 +1,13 @@
+1. Using NextJS to create the project(use app/router while installing).
+2.Then using shadcn to install the library components to use the dark mode for easy components installation.
+3.Then for authentication use OAuth by Google.
+4.For Logo use "UIlogos.co"
+5.Then we have to use ConvexDB for the database integration
+(
+    npm i convex
+    use npx convex dev 
+)
+6.With the help of useContext from "react" it was easy to implement the convex db as its need to be installed by us and then connected to
+our project
+7.
+8.MagicUI Library(which is based on ShadCN already so need to install it separately)
